@@ -43,18 +43,18 @@ h1 {
 }
 
 h2 {
-    background-color: #ddd;
+    background-color: #e10505;
     /* Arrière-plan gris plus clair que h1 pour h2 */
 }
 
 /* Couleur par défaut pour les liens hypertexte */
 a {
-    color: blue;
+    color: rgb(211, 211, 223);
 }
 
 /* Couleur pour les liens visités */
 a:visited {
-    color: blue;
+    color: rgb(201, 102, 40);
 }
 
 /* Couleur lorsque la souris passe sur le lien */
